@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
