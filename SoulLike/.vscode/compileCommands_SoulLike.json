@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\Source\\SoulLike\\Grabber.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_SoulLike\\SoulLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\Source\\SoulLike\\Grabber.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_SoulLike\\SoulLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\Source\\SoulLike\\SoulLike.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_SoulLike\\SoulLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\Source\\SoulLike\\SoulLike.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_SoulLike\\SoulLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\Source\\SoulLike\\SoulLike.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_SoulLike\\SoulLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\Source\\SoulLike\\SoulLikeCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_SoulLike\\SoulLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\Source\\SoulLike\\SoulLikeCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_SoulLike\\SoulLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\Source\\SoulLike\\SoulLikeGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_SoulLike\\SoulLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\Source\\SoulLike\\SoulLikeGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unity Project\\sngGame\\SoulLike_Making\\SoulLike\\.vscode\\compileCommands_SoulLike\\SoulLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
